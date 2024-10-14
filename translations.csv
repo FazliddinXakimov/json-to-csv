@@ -1,0 +1,150 @@
+key,uz,ru,kr
+international_certificates,Xalqaro ingliz tili sertifikatlari,Международные сертификаты английского языка,Халықаралық ағылшын тілі сертификаттары
+test_types,Test Turlari,Типы тестов,Тест Түрлері
+popular_sciences,Ommabop fanlar,Популярные науки,Атақты ғылымдар
+all,barchasi,все,барлығы
+All,Barchasi,Все,Барлығы
+block_tests,Blok Testlar,Блок тесты,Блок Тесттер
+leaders,Liderlar,Лидеры,Көшбасшылар
+province,Viloyat,Область,Облыс
+district,Tuman,Район,Аудан
+subject,Fan,Предмет,Пән
+not_data,Ma'lumotlar mavjud emas,Данные отсутствуют,Деректер жоқ
+student,Talaba,Студент,Студент
+accuracy,Aniqlik,Точность,Дәлдік
+start,Boshlash,Начать,Бастау
+first_subject,Birinchi fan,Первый предмет,Бірінші пән
+second_subject,Ikkinchi fan,Второй предмет,Екінші пән
+add,Qo'shish,Добавить,Қосу
+no,Yo'q,Нет,Жоқ
+select_rate,Tarifni tanlang,Выберите тариф,Тарифты таңдаңыз
+select_card,Kartani tanlang,Выберите карту,Картаны таңдаңыз
+finish,Yakunlash,Завершить,Аяқтау
+will_you_complete_test,Testni yakunlaysizmi ?,Вы завершите тест?,Тесті аяқтайсыз ба?
+unmarked_questions_are_considered_wrong,Javob belgilanmagan savollar xato deb hisoblanadi,Невыбранные вопросы считаются неправильными,Жауап белгіленбеген сұрақтар қате деп саналады
+shut_down,Yopish,Закрыть,Жабу
+error_confirmation_code,enter_the_correct_format,введите_правильный_формат,дұрыс форматты енгізіңіз
+card_number,Karta raqami,Номер карты,Карта нөмірі
+card_expire_in,OO/YY,ММ/ГГ,ОО/Ж
+remember,Eslab qol,Запомнить,Есіңізде сақтаңыз
+sms_code,Sms kod,СМС код,Смс коды
+attention,Diqqat,Внимание,Назар аударыңыз
+warning_test_test,Test boshlangandan keyin uni yakunlamasdan boshqa amallarni bajara olmaysiz!,После начала теста вы не сможете выполнять другие действия!,Тест басталғаннан кейін оны аяқтамай басқа әрекеттерді орындай алмайсыз!
+cancel,Bekor qilish,Отмена,Бас тарту
+name,Ismi,Имя,Аты
+surname,Familyasi,Фамилия,Тегі
+change_data,O'zgartirish,Изменить,Өзгерту
+user_data,Ma'lumotlar,Данные пользователя,Деректер
+solve_block_test,Blok test yechish,Решение блок теста,Блок тест шешу
+place,Hudud,Место,Ауданда
+my_cards,Kartalarim,Мои карты,Карталарым
+my_subscriptions,Obunalarim,Мои подписки,Абонементтерім
+payment_history,To'lovlar tarixi,История платежей,Төлем тарихы
+tests,Testlar,Тесты,Тесттер
+by_science,Fan bo'yicha,По науке,Ғылым бойынша
+by_block,Blok test,Блок тест,Блок тест
+by_variant,Variant test,Вариант тест,Вариант тест
+back,Orqaga,Назад,Кері
+previous,Oldingi,Предыдущий,Алдыңғы
+next,Keyingi,Следующий,Келесі
+personal_cabinet,Shaxsiy kabinet,Личный кабинет,Жеке кабинет
+phone,Telefon,Телефон,Телефон
+login,Kirish,Вход,Кіру
+register,Ro'yhatdan o'tish,Регистрация,Тіркелу
+password,Parol,Пароль,Пароль
+passwordConfirm,Parolni tasdiqlang,Подтвердите пароль,Парольды растаңыз
+Continue,Davom etish,Продолжить,Жалғастыру
+rules_required,Maydon to`ldirilishi shart,Поле обязательно для заполнения,Өңдеу толтырылуы қажет
+rules_passwordConfirm,Parollar mos emas,Пароли не совпадают,Парольдер сәйкес келмейді
+rules_password ,Parol eng kamida 6 belgidan iborat bo'lishi kerak,,
+rules_phone,Telefonnni to'g'ri formatda kiriting,Введите телефон в правильном формате,Телефонды дұрыс форматта енгізіңіз
+dont_have_account,Sizda akkount mavjud bo'lmasa,Если у вас нет аккаунта,Егер сізде аккаунт болмаса
+registering,Ro'yhatdan o'ting,Зарегистрируйтесь,Тіркелу
+have_account,Sizda akkount mavjud bo'lsa,Если у вас есть аккаунт,Егер сізде аккаунт болса
+logining,Login qiling,Войдите,Кіру
+user_not_found,Bunday ma'lumotli foydalanuvchi topilmadi,Пользователь с такими данными не найден,Мұндай деректері бар пайдаланушы табылмады
+already_exists,Bunday raqamli foydalanuvchi oldin mavjud,Пользователь с таким номером уже существует,Мұндай нөмірлі пайдаланушы бұрыннан бар
+success_welcome,Xush kelibsiz,Добро пожаловать,Қош келдіңіз
+daily,Kunlik,Ежедневно,Күн сайын
+weekly,Haftalik,Еженедельно,Аптасына
+monthly,Oylik,Ежемесячно,Ай сайын
+main,Asosiy,Основной,Негізгі
+profile,Profil,Профиль,Профиль
+add_card,Karta qo'shish,Добавить карту,Карта қосу
+you_have_not_card,Sizda hozircha karta mavjud emas,У вас пока нет карты,Сізде қазірше карта жоқ
+purchase,Sotib olish,Купить,Сатып алу
+you_have_not_subscription,Sizda { subscription_type } obuna mavjud emas. Iltimos obuna sotib oling,У вас нет подписки { subscription_type }. Пожалуйста, приобретите подписку,Сізде { subscription_type } абонемент жоқ. Пожалуйста, абонемент сатып алыңыз
+correct_answers,To'g'ri javoblar,Правильные ответы,Дұрыс жауаптар
+wrong_answers,Noto'g'ri javoblar,Неправильные ответы,Қате жауаптар
+unmarked_anwers,Belgilanmagan savollar,Невыбранные ответы,Белгіленбеген сұрақтар
+answers_count,Savollar soni,Количество вопросов,Сұрақтар саны
+select_main_subjects,Asosiy fanlarni tanlang,Выберите основные предметы,Негізгі пәндерді таңдаңыз
+must_be_select_first_subject,Avval birinchi fanni tanlang!,Сначала выберите первый предмет!,Алдымен бірінші пәнді таңдаңыз!
+common,Umumiy,Общий,Жалпы
+share_with_others,Boshqalar bilan ulashish,Поделиться с другими,Басқалармен бөлісу
+select_subject,Fanni tanlang,Выберите предмет,Пәнді таңдаңыз
+first_select_subject,Avval fanni tanlang,Сначала выберите предмет,Алдымен пәнді таңдаңыз
+select_variant,Variantni tanlang,Выберите вариант,Вариантты таңдаңыз
+select_variant_test,Variant testni tanlang,Выберите тестовый вариант,Вариант тестін таңдаңыз
+try_again_later,Xatolik yuz berdi. Keyinroq urinib ko'ring,Произошла ошибка. Попробуйте позже,Қате пайда болды. Кейінірек қайтадан көріңіз
+are_you_sure_logout_profile,Siz haqiqatdan ham profildan chiqmoqchimisiz?,Вы действительно хотите выйти из профиля?,Сіз шынымен профилден шығуды қалайсыз ба?
+exit,Chiqish
+,Выход,Шығу
+expired_in,Amal qilish muddati,Срок действия,Жарамдылық мерзімі
+are_you_want_delete_card,Kartani o'chirishni xohlaysizmi?,Вы хотите удалить карту?,Картаны жоюды қалайсыз ба?
+delete,O'chirish,Удалить,Жою
+test_type,Test Turi,Тип теста,Тест Туры
+test_period,Test Vaqti,Период теста,Тест Уақыты
+test_result,Natija,Результат,Нәтиже
+subscription,Obuna,Подписка,Абонемент
+price,Narxi,Цена,Бағасы
+sum,so'm,сумма,сом
+end_date,Tugash sanasi,Дата окончания,Аяқталу күні
+my_results,Natijalarim,Мои результаты,Нәтижелерім
+by_selections,Mavzulashtirilgan,По выборкам,Тақырыптан
+download,Yuklash,Скачать,Жүктеу
+your_subscription_end_date,Sizning obunangiz tugash sanasi,Дата окончания вашей подписки,Сіздің абонементтің аяқталу күні
+upload_photo,Rasm yuklash,Загрузить фото,Сурет жүктеу
+must_at_least_sign,Eng kamida {{ signCount }} ta belgidan iborat bo`lishi kerak,Должно состоять как минимум из {{ signCount }} знаков,Ең кемінде {{ signCount }} белгі болуы керек
+have_question_call_us,Savolingiz bormi?,Есть вопросы? Позвоните нам,Сұрағыңыз бар ма?
+about_us,Biz haqimizda,О нас,Біз туралы
+to_cooperate_with_us,Biz bilan hamkorlik qilish uchun,Для сотрудничества с нами,Бізбен серіктес болу үшін
+vacancy,Vakansiyalar,Вакансии,Вакансиялар
+we_accept_payments,Biz to'lovlarni qabul qilamiz,Мы принимаем платежи,Біз төлемдерді қабылдаймыз
+all_rights_reserved,Barcha huquqlar himoyalangan,Все права защищены,Барлық құқықтар қорғалған
+premium_info,6 oy muddatga barcha testlarni yechish imkoniyati. (*Premium testlardan tashqari),Возможность решать все тесты на срок 6 месяцев. (*За исключением премиум тестов),6 ай мерзімге барлық тесттерді шешу мүмкіндігі. (*Premium тесттерден басқа)
+prime_info,1 martalik premium (mock va blok) testlarini sotib olish imkoniyati. Yani 1ta obuna 1 marta test yechish imkoniyati.,Возможность однократной покупки премиум (мок и блок) тестов. То есть 1 подписка - возможность решить 1 тест.,1 рет premium (mock және блок) тесттерін сатып алу мүмкіндігі. Яғни 1 абонемент 1 рет тест шешу мүмкіндігі.
+prime_test_count,Soni,Количество,Саны
+math,Matematika,Математика,Математика
+history,Tarix,История,Тарих
+mother_tongue,Ona tili,Родной язык,Ана тілі
+premium_tests,Premium testlar,Премиум тесты,Premium тесттер
+prime_tests,Prime testlar,Прайм тесты,Prime тесттер
+download_file,Faylni Yuklash,Скачать файл,Файлды жүктеу
+download_result,Natijani Yuklash,Скачать результат,Нәтижені жүктеу
+selected_tests,Tanlangan Testlar,Выбранные тесты,Таңдалған Тесттер
+warning,Ogohlantirish,Предупреждение,Ескерту
+warning_back_notify,Testni yakunlashni tavsiya qilamiz. Oraqaga qaytishni tasdiqlashingiz bilan ushbu test bekor qilinadi,Рекомендуем завершить тест. Подтвердив возврат, этот тест будет отменен,Тесті аяқтауды ұсынамыз. Артқа қайтуыңызды растағаныңызбен, бұл тест жойылады
+confirming,Tasdiqlash,Подтверждение,Растау
+soon_days,Tez kunlarda,Скоро,Жақын күндерде
+world_olympic_tests,Xalqaro olimpiada testlari,Международные олимпийские тесты,Халықаралық олимпиада тесттері
+national_certificate_tests,Milliy sertifikat testlari,Тесты национального сертификата,Ұлттық сертификат тесттері
+file_saved,Fayl saqlandi,Файл сохранен,Файл сақталды
+error_occured,Xatolik aniqlandi,Произошла ошибка,Қате анықталды
+password_saved_clipboard,Parol vaqtinchalik xotiraga saqlandi,Пароль временно сохранен в буфере обмена,Пароль уақытша жадыға сақталды
+compulsory_subjects,Majburiy fanlar,Обязательные предметы,Міндетті пәндер
+file,fayl,файл,файл
+month,oy,месяц,ай
+i_agree_terms,Men ommaviy offerta shartlarini qabul qilaman,Я принимаю условия публичной оферты,Мен жария ұсыныстың шарттарын қабылдаймын
+public_offer,Ommaviy offerta,Публичная оферта,Жария ұсыныс
+prime_subs,Prime obuna,Прайм подписка,Prime абонемент
+premium_subs,Premium obuna,Премиум подписка,Premium абонемент
+until_date,{ date } gacha,до { date },{ date }-ға дейін
+not_available,mavjud emas,недоступно,мүмкін емес
+password_for_files,Fayllar uchun parol,Пароль для файлов,Файлдар үшін пароль
+you_have_not_card_add_first,Sizda karta mavjud emas.Shuning uchun avval karta qo'shing,У вас нет карты. Пожалуйста, сначала добавьте карту,Сізде карта жоқ. Сондықтан алдымен карта қосыңыз
+go_to_add_card,Karta qo'shishga o'tish,Перейти к добавлению карты,Карта қосуға өту
+main_subjects,Asosiy fanlar,Основные предметы,Негізгі пәндер
+send_to_tg,Telegramga jo'natish,Отправить в Telegram,Telegram-ға жіберу
+file_sended_to_tg,Fayl telegram orqali yuborildi,Файл отправлен через Telegram,Файл Telegram арқылы жіберілді
+traffic_rules_tests,YHQ testlari,Тесты ПДД,ЖТҚ тесттері
